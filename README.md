@@ -1,8 +1,10 @@
-# This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
-
----
 
 # svelte app
+
+![Screenshot 2024-09-26 210405](https://github.com/user-attachments/assets/1872eb76-c0c2-4e42-bfcd-d564b47a20e2)
+![Screenshot 2024-09-26 210416](https://github.com/user-attachments/assets/e6060a95-8bf0-43e0-ad62-ac02b03a9903)
+
+
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
@@ -24,6 +26,7 @@ Install the dependencies...
 cd svelte-app
 npm install
 ```
+![Screenshot 2024-09-26 210416](https://github.com/user-attachments/assets/1065b485-7f3a-4ae5-9e9e-67b78a320fbe)
 
 ...then start [Rollup](https://rollupjs.org):
 
