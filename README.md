@@ -26,7 +26,6 @@ Install the dependencies...
 cd svelte-app
 npm install
 ```
-![Screenshot 2024-09-26 210416](https://github.com/user-attachments/assets/1065b485-7f3a-4ae5-9e9e-67b78a320fbe)
 
 ...then start [Rollup](https://rollupjs.org):
 
